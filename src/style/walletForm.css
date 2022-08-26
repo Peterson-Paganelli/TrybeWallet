@@ -1,0 +1,32 @@
+.wallet_form {
+  display: flex;
+  height: 40px;
+  justify-content: space-evenly;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.input_wallet {
+  background-color: transparent;
+  border: none;
+  border-bottom-color: rgb(158, 158, 158);
+  border-bottom-style: solid;
+  border-left-style: none;
+  border-right-color: initial;
+  border-right-style: none;
+  border-width: 1px;
+}
+
+.input_wallet:focus {
+  outline: none;
+}
+
+.wallet_btn {
+  background-color: blue;
+  border: 2px solid blue;
+  border-radius: 2px;
+  color: white;
+  font-weight: 700;
+  margin-top: 1px;
+  padding: 5px;
+}

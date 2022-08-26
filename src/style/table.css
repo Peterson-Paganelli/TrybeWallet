@@ -1,0 +1,29 @@
+table {
+  margin: auto;
+  margin-top: 45px;
+  width: 99%;
+}
+
+table , th , td {
+  border: 1px solid black;
+  text-align: center;
+}
+
+table th {
+  padding: 6px;
+}
+
+table th:nth-child( 1 ) {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+td {
+  font-size: 13px;
+  height: 35px;
+  word-wrap: break-word;
+}
+
+.removeBtn {
+  border: transparent;
+}
