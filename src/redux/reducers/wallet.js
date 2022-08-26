@@ -20,7 +20,7 @@ export default function wallet(state = INITIAL_STATE, action) {
       ...state,
       expenses: [
         ...state.expenses,
-        { id: state.expenses.length, ...action.payload },
+        { id: Math.random(), ...action.payload },
       ],
     };
   case UPDATE_TOTAL:
