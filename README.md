@@ -1,6 +1,6 @@
 # TrybeWallet
 
-<h2>Link do <a href='https://trybe-wallet-8grc1r0h0-peterson-paganelli.vercel.app/'>projeto</a></h2>
+<h2>Link do <a href='https://trybe-wallet-kappa.vercel.app/'>projeto</a></h2>
 
 <h2>Descrição</h2>
 <p>Projeto desenvolvido na Trybe durante o módulo de Front-End</p>
