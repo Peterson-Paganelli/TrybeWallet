@@ -1,4 +1,5 @@
 # TrybeWallet
+![trybeWallet](https://user-images.githubusercontent.com/62625447/199612040-c238dee2-f87f-434e-9aca-6bbe76512668.gif)
 
 <h2>Link do <a href='https://trybe-wallet-kappa.vercel.app/'>projeto</a></h2>
 
